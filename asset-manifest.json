@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Affordmed-Task6/static/css/main.c284fbfc.css",
+    "main.js": "/Affordmed-Task6/static/js/main.23c09965.js",
+    "index.html": "/Affordmed-Task6/index.html",
+    "main.c284fbfc.css.map": "/Affordmed-Task6/static/css/main.c284fbfc.css.map",
+    "main.23c09965.js.map": "/Affordmed-Task6/static/js/main.23c09965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c284fbfc.css",
+    "static/js/main.23c09965.js"
+  ]
+}
